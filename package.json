@@ -1,0 +1,8 @@
+{
+  "name": "GeeSight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GEE-ORG/GeeSight.git",
+  "author": "Geeku <ggongpei@qq.com>",
+  "license": "MIT"
+}
