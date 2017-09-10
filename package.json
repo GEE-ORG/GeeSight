@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "git@github.com:GEE-ORG/GeeSight.git",
   "author": "Geeku <ggongpei@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build:vue": "BUILD_TYPE=vue webpack"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.7",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "ts-loader": "^2.3.6",
+    "typescript": "^2.5.2"
+  }
 }

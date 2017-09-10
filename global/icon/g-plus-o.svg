@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>g-plus-o</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="g-plus-o" fill="#000000">
+            <path d="M512,1024 C794.769792,1024 1024,794.769792 1024,512 C1024,229.230208 794.769792,0 512,0 C229.230208,0 0,229.230208 0,512 C0,794.769792 229.230208,1024 512,1024 Z M512,960 C759.423568,960 960,759.423568 960,512 C960,264.576432 759.423568,64 512,64 C264.576432,64 64,264.576432 64,512 C64,759.423568 264.576432,960 512,960 Z M541,483.5 L541,128 L484,128 L484,483.5 L128.5,483.5 L128.5,540.5 L484,540.5 L484,896 L541,896 L541,540.5 L896.5,540.5 L896.5,483.5 L541,483.5 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
